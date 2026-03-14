@@ -40,15 +40,19 @@
 ## 🚀 Featured Projects
 
 🔹 **Warehouse Management System Research**
+
 Evaluation of WMS implementation using DeLone & McLean model with Trust and Security variables.
 
 🔹 **Website Badan Pengelolaan Aset Daerah DKI Jakarta**
+
 Web-based asset management platform developed using Vue.js and Nuxt.js to support digital asset administration and operational efficiency.
 
 🔹 **E-Reklame System**
+
 Web-based system for managing advertisement permit applications and monitoring billboard assets, developed using Vue.js and Nuxt.js to improve efficiency in public service administration.
 
 🔹 **Warehouse Management System**
+
 Web-based system for managing warehouse operations, inventory tracking, stock movement, and order fulfillment, developed using Meteor.js to improve operational efficiency and inventory accuracy.
 
 ---
