@@ -59,7 +59,7 @@ Web-based system for managing advertisement permit applications and monitoring b
 
 -  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"> Email: rickys.worker@gmail.com 
 
-- <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> Instagram [Ricky Setiawan](https://www.instagram.com/rickys.setiawan/)
+- <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> [Ricky Setiawan](https://www.instagram.com/rickys.setiawan/)
 ---
 
 ⭐ *Always learning and building new things.*
