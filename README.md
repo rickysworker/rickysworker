@@ -7,9 +7,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/image/banner-git.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-light.png">
-  <img alt="Ricky Setiawan Banner" src="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-light.png">
+  <img alt="Ricky Setiawan Banner" src="/image/banner-git.jpg">
 </picture>
 
 ## 🛠 Tech Stack
