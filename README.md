@@ -7,14 +7,13 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/banner-git.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-light.png">
   <img alt="Ricky Setiawan Banner" src="/images/banner-git.jpg">
 </picture>
 
 ## 🛠 Tech Stack
 
 **Frontend**
+
 - Vue.js
 - Nuxt.js
 - Next.js
@@ -40,8 +39,10 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Warehouse Management System Research**  
+🔹 **<summery>Warehouse Management System Research</summery>**  
+
 Evaluation of WMS implementation using DeLone & McLean model with Trust and Security variables.
+</details>
 
 🔹 **Website Badan Pengelolaan Aset Daerah DKI Jakarta**  
 Web-based asset management platform developed using Vue.js and Nuxt.js to support digital asset administration and operational efficiency.
