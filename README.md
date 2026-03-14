@@ -63,7 +63,7 @@ Web-based system for managing warehouse operations, inventory tracking, stock mo
 
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"> Email: rickys.worker@gmail.com 
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="20" /> Instagram: [rickys.setiawan](https://www.instagram.com/rickys.setiawan/)
+- <span style='color:white'><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="20" /></span> Instagram: [rickys.setiawan](https://www.instagram.com/rickys.setiawan/)
 ---
 
 ⭐ *Always learning and building new things.*
