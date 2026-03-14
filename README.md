@@ -55,11 +55,11 @@ Web-based system for managing advertisement permit applications and monitoring b
 
 ## 🌍 Connect With Me
 
-- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"> LinkedIn: [Ricky Setiawan](https://www.linkedin.com/in/rickyssetiawan20)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"> LinkedIn: [Ricky Setiawan](https://www.linkedin.com/in/rickyssetiawan20)
 
--  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"> Email: rickys.worker@gmail.com  
+-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"> Email: rickys.worker@gmail.com 
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/>[Ricky Setiawan](https://www.instagram.com/rickys.setiawan/)
 ---
 
 ⭐ *Always learning and building new things.*
