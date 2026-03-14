@@ -7,9 +7,9 @@
 ---
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-light.png">
+  <img alt="Ricky Setiawan Banner" src="https://raw.githubusercontent.com/yumanrancak/yumanrancak/main/banner-light.png">
 </picture>
 
 ## 🛠 Tech Stack
