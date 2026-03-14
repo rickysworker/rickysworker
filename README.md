@@ -29,24 +29,19 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumanrancak&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumanrancak&layout=compact)
-
----
-
 ## 🚀 Featured Projects
 
 🔹 **Warehouse Management System Research**  
 Evaluation of WMS implementation using DeLone & McLean model with Trust and Security variables.
 
-🔹 **Enterprise Asset Management System**  
-Web-based asset management platform built with Vue and Nuxt.
+🔹 **Website Badan Pengelolaan Aset Daerah DKI Jakarta**  
+Web-based asset management platform developed using Vue.js and Nuxt.js to support digital asset administration and operational efficiency.
 
-🔹 **Admin Dashboard**  
-Modern dashboard interface with data visualization and reporting tools.
+🔹 **E-Reklame System**  
+Web-based system for managing advertisement permit applications and monitoring billboard assets, developed using Vue.js and Nuxt.js to improve efficiency in public service administration.
+
+🔹 **Warehouse Management System**  
+Web-based system for managing advertisement permit applications and monitoring billboard assets, developed using Vue.js and Nuxt.js to improve efficiency in public service administration.
 
 ---
 
