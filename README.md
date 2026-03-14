@@ -1,14 +1,13 @@
-# Hi 👋 I'm Ricky Setiawan
+<h1 align='center'>
+  Hi there 👋 I'm Ricky Setiawan 👨‍💻
+</h1>
 
-<picture>
-  <img alt="Ricky Setiawan Banner" src="/images/banner-git.jpg">
-</picture>
+<img src='/images/Banner - Web Dev Ricky.png'/>
 
---
+<p align='center'>
+  A developer from Indonesian learning every day.
+</p>
 
-💻 Fullstack Developer  
-🚀 Passionate about building scalable web applications and digital systems  
-📊 Interested in Information Systems, Data Analytics, and Enterprise Solutions  
 
 ## 🛠 Tech Stack
 
