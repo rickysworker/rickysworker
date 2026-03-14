@@ -11,16 +11,19 @@
 **Frontend**
 - Vue.js
 - Nuxt.js
+- Next.js
+- Meteor JS
 - Tailwind CSS
 - JavaScript
 
 **Backend**
-- Node.js
+- Node.js / Express JS
 - REST API
 
 **Database**
 - SQL Server
 - MySQL
+- MongoDB
 
 **Tools**
 - Git
