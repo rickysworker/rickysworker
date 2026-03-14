@@ -39,10 +39,8 @@
 
 ## 🚀 Featured Projects
 
-🔹 **<details><summary>Warehouse Management System Research</summary>**  
-
+🔹 **Warehouse Management System Research**  
 Evaluation of WMS implementation using DeLone & McLean model with Trust and Security variables.
-</details>
 
 🔹 **Website Badan Pengelolaan Aset Daerah DKI Jakarta**  
 Web-based asset management platform developed using Vue.js and Nuxt.js to support digital asset administration and operational efficiency.
@@ -57,8 +55,9 @@ Web-based system for managing advertisement permit applications and monitoring b
 
 ## 🌍 Connect With Me
 
-LinkedIn: [Ricky Setiawan](https://www.linkedin.com/in/rickyssetiawan20)
-Email: rickys.worker@email.com  
+- LinkedIn: [Ricky Setiawan](https://www.linkedin.com/in/rickyssetiawan20)
+
+- Email: rickys.worker@gmail.com  
 
 ---
 
