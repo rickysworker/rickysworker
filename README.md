@@ -50,7 +50,7 @@ Web-based system for managing advertisement permit applications and monitoring b
 
 ## 🌍 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rickyssetiawan20
+LinkedIn: [Ricky Setiawan](https://www.linkedin.com/in/rickyssetiawan20)
 Email: rickys.worker@email.com  
 
 ---
