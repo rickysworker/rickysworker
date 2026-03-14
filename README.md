@@ -17,7 +17,7 @@
 - JavaScript
 
 **Backend**
-- Node.js / Express JS
+- [Node.js](https:nodejs.com) / Express JS
 - REST API
 
 **Database**
