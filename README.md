@@ -1,9 +1,8 @@
+# Hi 👋 I'm Ricky Setiawan
 
 <picture>
   <img alt="Ricky Setiawan Banner" src="/images/banner-git.jpg">
 </picture>
-
-# Hi 👋 I'm Ricky Setiawan
 
 💻 Fullstack Developer  
 🚀 Passionate about building scalable web applications and digital systems  
