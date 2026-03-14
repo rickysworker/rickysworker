@@ -52,8 +52,8 @@ Modern dashboard interface with data visualization and reporting tools.
 
 ## 🌍 Connect With Me
 
-LinkedIn: https://linkedin.com  
-Email: your@email.com  
+LinkedIn: https://www.linkedin.com/in/rickyssetiawan20
+Email: rickys.worker@email.com  
 
 ---
 
