@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 **<summery>Warehouse Management System Research</summery>**  
+🔹 **<summary>Warehouse Management System Research</summary>**  
 
 Evaluation of WMS implementation using DeLone & McLean model with Trust and Security variables.
 </details>
