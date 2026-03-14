@@ -12,7 +12,7 @@
 - Vue.js
 - Nuxt.js
 - Next.js
-- Meteor JS
+- Meteor.js
 - Tailwind CSS
 - JavaScript
 
